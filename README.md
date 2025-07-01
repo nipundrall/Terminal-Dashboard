@@ -26,6 +26,7 @@ For installation you would require python and pip.
 # :construction: Color Customization
 
 For Customization you can edit the script.
+
 ![2025-07-01T23:27:13,675610408+05:30](https://github.com/user-attachments/assets/0abd8df2-de2a-4ab4-920d-465b19b91930)
 
 There's a section for adjusting the Color. You can chage text color as well as the Background Color. Currently there are 3 different color variables for texts{ Date, :hourglass: Time, :desktop_computer: System info } and One variable for Background Color.
@@ -35,6 +36,7 @@ You can add more variable for more and seprate text customizations.
 # :construction: Text Customization
 
 You can also change the prefilled texts.
+
 ![2025-07-01T23:26:56,470846042+05:30](https://github.com/user-attachments/assets/6b347f82-0cb9-4e5f-9b71-e57aeae39d24)
 
 Just look for the comments and edit the refered text.
