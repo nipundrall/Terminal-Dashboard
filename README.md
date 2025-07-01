@@ -11,6 +11,26 @@ This is a Fully Customizable Python Based Dashboard Clock.
 
 For installation you would require python and pip.
 
-Install python3 and python3-pip for your distribution
+### Install python3 and python3-pip for your distribution
+### Then install Dependencies
+pip3 install --user PyQt5 psutil
 
-(hello)
+### Then just run the script 
+python3 /path/to/terminal-dashboard.py
+
+
+# Color Customization
+
+For Customization you can edit the script.
+
+There's a section for adjusting the Color. You can chage text color as well as the Background Color. Currently there are 3 different color variables for texts{ Date, Time, System info } and One variable for Background Color.
+
+You can add more variable for more and seprate text customizations.
+
+# Text Customization
+
+You can also change the prefilled texts.
+
+Just look for the comments and edit the refered text.
+
+[^1]This is was made by Nipun Drall for a server running on laptop. You can customize and share it as you like. 
