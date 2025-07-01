@@ -33,4 +33,4 @@ You can also change the prefilled texts.
 
 Just look for the comments and edit the refered text.
 
-[^1]This is was made by Nipun Drall for a server running on laptop. You can customize and share it as you like. 
+[^1]: This is was made by Nipun Drall for a server running on laptop. You can customize and share it as you like. 
