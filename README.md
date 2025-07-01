@@ -31,7 +31,7 @@ You can add more variable for more and seprate text customizations.
 # Text Customization
 
 You can also change the prefilled texts.
-![Uploading 2025-07-01T23:26:56,470846042+05:30.png…]()
+![2025-07-01T23:26:56,470846042+05:30](https://github.com/user-attachments/assets/6b347f82-0cb9-4e5f-9b71-e57aeae39d24)
 
 Just look for the comments and edit the refered text.
 
