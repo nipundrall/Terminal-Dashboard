@@ -5,8 +5,8 @@
 ![2025-07-01T22:55:20,610073691+05:30](https://github.com/user-attachments/assets/58933ce8-ea39-494f-9cf0-1f374732a8ab)
 ![2025-07-01T22:48:43,362755807+05:30](https://github.com/user-attachments/assets/355ea776-b951-4e38-bc1e-8d116fbae8e4)
 
-This is a Fully Customizable Python Based Dashboard Clock.
-
+# This is a Fully Customizable Python Based Dashboard Clock.
+<br/><br/>
 # Installation
 
 For installation you would require python and pip.
@@ -22,7 +22,7 @@ For installation you would require python and pip.
 ### Then just run the script 
 ``` python3 /path/to/terminal-dashboard.py ```
 
-
+<br/><br/>
 # Color Customization
 
 For Customization you can edit the script.
