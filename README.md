@@ -15,6 +15,10 @@ For installation you would require python and pip.
 ### Then install Dependencies
 ``` pip3 install --user PyQt5 psutil ```
 
+### Copy This Repository
+
+``` git clone https://github.com/nipundrall/Terminal-Dashboard.git ```
+
 ### Then just run the script 
 ``` python3 /path/to/terminal-dashboard.py ```
 
