@@ -13,10 +13,10 @@ For installation you would require python and pip.
 
 ### Install python3 and python3-pip for your distribution
 ### Then install Dependencies
-''' pip3 install --user PyQt5 psutil '''
+``` pip3 install --user PyQt5 psutil ```
 
 ### Then just run the script 
-''' python3 /path/to/terminal-dashboard.py '''
+``` python3 /path/to/terminal-dashboard.py ```
 
 
 # Color Customization
